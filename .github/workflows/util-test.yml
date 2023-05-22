@@ -17,10 +17,10 @@ jobs:
         uses: microsoft/setup-msbuild@v1
 
       - name: Restore NuGet packages
-        run: nuget restore "Enrolment Register.sln"
+        run: nuget restore "src/Enrolment Register.sln"
 
       - name: Build project
-        run: msbuild "Enrolment Register.sln" /t:Build /p:Configuration=Release
+        run: msbuild "src/Enrolment Register.sln" /t:Build /p:Configuration=Release
 
   create-package:
     needs: build
@@ -31,4 +31,4 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Create Appx package
-        run: msbuild "Enrolment Register.csproj" /t:Publish /p:Configuration=Release /p:Platform=x86 /p:PublishDir=bin\Publish\ /p:AppxBundle=Always /p:AppxBundlePlatforms="x86|x64|ARM"
+        run: msbuild "src/Enrolment Register.csproj" /t:Publish /p:Configuration=Release /p:Platform=x86 /p:PublishDir=bin\Publish\ /p:AppxBundle=Always /p:AppxBundlePlatforms="x86|x64|ARM"
