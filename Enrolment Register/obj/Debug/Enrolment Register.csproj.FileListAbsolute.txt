@@ -1,0 +1,24 @@
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csprojAssemblyReference.cache
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Add.resources
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Form1.resources
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Properties.Resources.resources
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csproj.GenerateResource.cache
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csproj.CoreCompileInputs.cache
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.exe.config
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.exe
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.pdb
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.exe
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.pdb
+C:\GENERAL\TeachingStuff\ModuleMaterials\COM122\Visual Studio\Projects\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Search.resources
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.exe.config
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.exe
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\bin\Debug\Enrolment Register.pdb
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csprojAssemblyReference.cache
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Add.resources
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Form1.resources
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Properties.Resources.resources
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment_Register.Search.resources
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csproj.GenerateResource.cache
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.csproj.CoreCompileInputs.cache
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.exe
+C:\Users\vaibh\OneDrive\Desktop\Enrolment Register\Enrolment Register\Enrolment Register\obj\Debug\Enrolment Register.pdb
