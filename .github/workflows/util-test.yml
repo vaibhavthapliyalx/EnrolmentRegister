@@ -1,4 +1,4 @@
-# This is test pipeline for this project.
+# This is test pipeline for this
 name: Build Appx Package
 on:
   push:
@@ -7,28 +7,28 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Setup MSBuild
-        uses: microsoft/setup-msbuild@v1.0.2
+        uses: microsoft/setup-msbuild@v1
 
       - name: Restore NuGet packages
-        run: nuget restore "Enrolment Register.sln"
+        run: nuget restore "src/Enrolment Register.sln"
 
       - name: Build project
-        run: msbuild "Enrolment Register.sln" /t:Build /p:Configuration=Release
+        run: msbuild "src/Enrolment Register.sln" /t:Build /p:Configuration=Release
 
   create-package:
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Create Appx package
-        run: msbuild "Enrolment Register.csproj" /t:Package /p:Configuration=Release
+        run: msbuild "src/Enrolment Register.csproj" /t:Publish /p:Configuration=Release /p:Platform=x86 /p:PublishDir=bin\Publish\ /p:AppxBundle=Always /p:AppxBundlePlatforms="x86|x64|ARM"
